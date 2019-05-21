@@ -1,3 +1,3 @@
 # ASEAN-street-networks
-code chunks used to download street networks and urban forms of cities in Southeast Asia.
+These are code chunks used to download street networks and urban forms of cities in Southeast Asia.
 Drivable street networks of cities in Southeast Asian nations could be downloaded by using OSMnx. OSMnx is a Python package that lets you download spatial geometries and model, project, visualize, and analyze street networks from OpenStreetMap's APIs. Users can download and model urban street networks with a single line of Python code, and then easily analyze and visualize them. It is developed by Prof. Boeing. Please visit :https://github.com/gboeing/osmnx. Citation info: Boeing, G. 2017. "OSMnx: New Methods for Acquiring, Constructing, Analyzing, and Visualizing Complex Street Networks." Computers, Environment and Urban Systems 65, 126-139. doi:10.1016/j.compenvurbsys.2017.05.004.
